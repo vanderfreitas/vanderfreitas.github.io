@@ -16,6 +16,7 @@ const Index = () => (
     description={"Vander Freitas' personal website. Professor at the Federal University of Ouro Preto, Brazil "}
   >
     <article className="post" id="index">
+      <h2 data-testid="heading"><Link to="/">About me</Link></h2>
       <ReactMarkdown
         source={markdown}
         renderers={{
