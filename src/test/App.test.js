@@ -13,9 +13,9 @@ import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
 import Resume from '../pages/Resume';
 import Publications from '../pages/Publications';
-import Teaching from '../pages/Teaching';
-import Talks from '../pages/Talks';
-import Resources from '../pages/Resources';
+// import Teaching from '../pages/Teaching';
+// import Talks from '../pages/Talks';
+// import Resources from '../pages/Resources';
 
 const pages = [
   {
