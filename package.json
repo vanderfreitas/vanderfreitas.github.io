@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "https://vanderfreitas.github.io",
+  "homepage": "https://vanderfreitas.github.io/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/vanderfreitas/vanderfreitas.github.io.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
