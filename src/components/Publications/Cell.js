@@ -9,7 +9,7 @@ const Cell = ({ data }) => (
         <h3><a href={data.doi}>{data.title}</a></h3>
       </header>
       <section className="post-data">
-        <a href={data.link} className="image">
+        <a href={data.doi} className="image">
           <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
         </a>
         <div className="description">
@@ -28,7 +28,7 @@ Cell.propTypes = {
     journal: PropTypes.string.isRequired,
     year: PropTypes.string.isRequired,
     image: PropTypes.string.isRequired,
-    doi: PropTypes.string.isRequired
+    doi: PropTypes.string.isRequired,
   }).isRequired,
 };
 
