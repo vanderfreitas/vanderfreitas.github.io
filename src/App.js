@@ -12,9 +12,9 @@ const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Publications = lazy(() => import('./pages/Publications'));
-const Teaching = lazy(() => import('./pages/Teaching'));
-const Talks = lazy(() => import('./pages/Talks'));
-const Resources = lazy(() => import('./pages/Resources'));
+// const Teaching = lazy(() => import('./pages/Teaching'));
+// const Talks = lazy(() => import('./pages/Talks'));
+// const Resources = lazy(() => import('./pages/Resources'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -23,9 +23,6 @@ const App = () => (
         <Route exact path="/" component={Index} />
         <Route path="/resume" component={Resume} />
         <Route path="/publications" component={Publications} />
-        <Route path="/teaching" component={Teaching} />
-        <Route path="/talks" component={Talks} />
-        <Route path="/resources" component={Resources} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>

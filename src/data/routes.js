@@ -12,18 +12,6 @@ const routes = [
     label: 'Publications',
     path: '/publications',
   },
-  {
-    label: 'Teaching',
-    path: '/teaching',
-  },
-  {
-    label: 'Talks',
-    path: '/talks',
-  },
-  {
-    label: 'Resources',
-    path: '/resources',
-  },
 ];
 
 export default routes;

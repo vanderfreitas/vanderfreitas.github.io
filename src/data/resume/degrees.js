@@ -6,7 +6,7 @@ const degrees = [
     year: 2019,
   },
   {
-    school: 'National Institute for Space Research (INPE), Brazil',
+    school: 'National Institute for Space Research (INPE), BR',
     degree: 'M.S. Applied Computing',
     link: 'http://inpe.br/',
     year: 2016,

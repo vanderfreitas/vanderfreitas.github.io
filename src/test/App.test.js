@@ -33,21 +33,6 @@ const pages = [
     heading: 'Publications',
     component: Publications,
   },
-  {
-    route: '/teaching',
-    heading: 'Teaching',
-    component: Teaching,
-  },
-  {
-    route: '/talks',
-    heading: 'Talks',
-    component: Talks,
-  },
-  {
-    route: '/resources',
-    heading: 'Resources',
-    component: Resources,
-  },
 ];
 
 // Adds router to Page context and allows us to navigate to the

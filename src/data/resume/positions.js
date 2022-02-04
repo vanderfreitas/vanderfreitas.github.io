@@ -9,7 +9,7 @@ const positions = [
     ],
   },
   {
-    company: 'Laboratory of Computing and Applied Mathematics, INPE, Brazil',
+    company: 'Laboratory of Computing and Applied Mathematics, INPE',
     position: 'Ph.D. candidate',
     link: 'http://inpe.br/',
     daterange: 'Mar 2016 - Oct 2019',
