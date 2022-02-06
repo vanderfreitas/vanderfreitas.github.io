@@ -5,8 +5,9 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faOrcid } from '@fortawesome/free-brands-svg-icons/faOrcid';
-import { faGoogle } from '@fortawesome/free-brands-svg-icons/faGoogle';
+// import { faGoogle } from '@fortawesome/free-brands-svg-icons/faGoogle';
 import { faResearchgate } from '@fortawesome/free-brands-svg-icons/faResearchgate';
+import { faGraduationCap } from '@fortawesome/free-solid-svg-icons/faGraduationCap';
 // import { aiGoogleScholar } from '@fortawesome/free-brands-svg-icons/aiGoogleScholar';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
@@ -23,7 +24,7 @@ const data = [
   {
     link: 'https://scholar.google.com/citations?user=XX3euXkAAAAJ&hl',
     label: 'Google Scholar',
-    icon: faGoogle,
+    icon: faGraduationCap,
   },
   {
     link: 'https://orcid.org/0000-0001-7989-0816',
