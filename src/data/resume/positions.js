@@ -1,5 +1,16 @@
 const positions = [
   {
+    key: '5',
+    company: 'Federal University of Ouro Preto (UFOP), Brazil',
+    position: 'Assistant Professor',
+    link: 'https://ufop.br',
+    daterange: 'Dec 2019 - Current',
+    points: [
+      'Teaching the following courses: Complex Networks, Numerical Calculus and Web Programming',
+    ],
+  },
+  {
+    key: '5',
     company: 'Humboldt University Berlin, Germany',
     position: 'Ph.D. intern',
     link: 'https://www.hu-berlin.de/en',
@@ -9,7 +20,8 @@ const positions = [
     ],
   },
   {
-    company: 'Laboratory of Computing and Applied Mathematics, INPE',
+    key: '4',
+    company: 'Laboratory of Computing and Applied Mathematics, INPE, Brazil',
     position: 'Ph.D. candidate',
     link: 'http://inpe.br/',
     daterange: 'Mar 2016 - Oct 2019',
@@ -18,6 +30,7 @@ const positions = [
     ],
   },
   {
+    key: '3',
     company: 'Laboratory of Computing and Applied Mathematics, INPE, Brazil',
     position: 'MSc student',
     link: 'http://inpe.br/',
@@ -27,6 +40,7 @@ const positions = [
     ],
   },
   {
+    key: '2',
     company: 'Computing Science Centre, University of Alberta, Canada',
     position: 'Undergraduate research intern',
     link: 'https://www.ualberta.ca/index.html',
@@ -36,6 +50,7 @@ const positions = [
     ],
   },
   {
+    key: '1',
     company: 'Sao Paulo State University, Brazil',
     position: 'Undergraduate junior scientist',
     link: 'https://fct.unesp.br/',
