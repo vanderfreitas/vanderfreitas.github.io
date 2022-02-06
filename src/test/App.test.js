@@ -20,7 +20,7 @@ import Publications from '../pages/Publications';
 const pages = [
   {
     route: '/',
-    heading: 'Bio',
+    heading: 'Affiliation',
     component: Index,
   },
   {
