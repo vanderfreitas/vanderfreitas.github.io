@@ -12,9 +12,6 @@ import { faGraduationCap } from '@fortawesome/free-solid-svg-icons/faGraduationC
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
-// fab fa-google
-// ai ai-google-scholar-square ai-3x
-
 const data = [
   {
     link: 'https://github.com/vanderfreitas',
