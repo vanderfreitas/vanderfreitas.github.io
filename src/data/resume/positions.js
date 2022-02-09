@@ -13,7 +13,7 @@ const positions = [
   },
   {
     key: '5',
-    company: 'Humboldt University Berlin, Germany',
+    company: 'Humboldt University Berlin and Technical University of Berlin, Germany',
     position: 'Ph.D. intern',
     link: 'https://www.hu-berlin.de/en',
     daterange: 'Mar 2018 - Feb 2019',
