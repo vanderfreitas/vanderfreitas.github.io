@@ -18,12 +18,13 @@ const SideBar = () => (
     </section>
 
     <section className="blurb">
-      <h2>Main interests: Complex Systems, Network Science, Data Science</h2>
+      <h2>Main interests:</h2> Complex systems, Network science, Data science, Synchronization
     </section>
+
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Vander L. S. Freitas - Adapted from <Link to="/">https://github.com/mldangelo/personal-site</Link>.</p>
+      <p className="copyright">&copy; Vander L. S. Freitas - Adapted from <Link to="https://github.com/mldangelo/personal-site">https://github.com/mldangelo/personal-site</Link>.</p>
     </section>
   </section>
 );

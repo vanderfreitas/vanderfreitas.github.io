@@ -1,12 +1,14 @@
 const positions = [
   {
-    key: '5',
+    key: '6',
     company: 'Federal University of Ouro Preto (UFOP), Brazil',
     position: 'Assistant Professor',
     link: 'https://ufop.br',
     daterange: 'Dec 2019 - Current',
     points: [
-      'Teaching the following courses: Complex Networks, Numerical Calculus and Web Programming',
+      'Teaching: Complex Networks, Numerical Calculus and Web Programming',
+      'Research: Complex Networks and applications',
+      'Associate Professor at the Intelligent Systems Computing Laboratory'
     ],
   },
   {

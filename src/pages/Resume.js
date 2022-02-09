@@ -29,11 +29,15 @@ const Resume = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
           <div className="link-container">
-            {sections.map((sec) => (
-              <h4 key={sec}>
-                <a href={`#${sec.toLowerCase()}`}>{sec}</a>
-              </h4>))}
-          </div>
+            <h4><a href="http://lattes.cnpq.br/5339877279308939">
+        Brazilian Lattes CV</a></h4>
+        </div>
+        <div className="link-container">
+          {sections.map((sec) => (
+            <h4 key={sec}>
+              <a href={`#${sec.toLowerCase()}`}>{sec}</a>
+            </h4>))}
+        </div>
 
         </div>
       </header>

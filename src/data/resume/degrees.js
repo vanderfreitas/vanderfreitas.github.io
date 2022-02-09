@@ -19,7 +19,7 @@ const degrees = [
     degree: 'B.S. Computer Science',
     link: 'https://fct.unesp.br/',
     year: 2013,
-  },
+  }
 ];
 
 export default degrees;

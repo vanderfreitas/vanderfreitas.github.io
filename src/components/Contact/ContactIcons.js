@@ -3,6 +3,9 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import data from '../../data/contact';
+// import { icon } from ${process.env.PUBLIC_URL}+'/images/contact/lattes/selection.json'
+
+console.log(process.env)
 
 const ContactIcons = () => (
   <ul className="icons">

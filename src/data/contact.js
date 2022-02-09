@@ -1,6 +1,6 @@
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 // import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
-import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
+// import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
@@ -37,11 +37,6 @@ const data = [
     link: 'https://www.researchgate.net/profile/Vander-Freitas',
     label: 'Researchgate',
     icon: faResearchgate,
-  },
-  {
-    link: 'https://www.instagram.com/vander_freitas/',
-    label: 'Instagram',
-    icon: faInstagram,
   },
   {
     link: 'https://www.linkedin.com/in/vander-freitas-61283441/',

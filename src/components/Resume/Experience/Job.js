@@ -17,6 +17,7 @@ const Job = ({ data }) => (
 
 Job.propTypes = {
   data: PropTypes.shape({
+    key: PropTypes.string.isRequired,
     link: PropTypes.string.isRequired,
     company: PropTypes.string.isRequired,
     position: PropTypes.string.isRequired,

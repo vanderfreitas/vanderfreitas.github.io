@@ -9,7 +9,7 @@ import Main from '../layouts/Main';
 const markdown = raw('../data/about.md');
 
 // Make all hrefs react router links
-const LinkRenderer = ({ ...children }) => <Link {...children} />;
+// const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Index = () => (
   <Main
@@ -19,10 +19,6 @@ const Index = () => (
       <h2 data-testid="heading"><Link to="/">Affiliation</Link></h2>
       <ReactMarkdown
         source={markdown}
-        renderers={{
-          Link: LinkRenderer,
-        }}
-        escapeHtml={false}
       />
     </article>
   </Main>

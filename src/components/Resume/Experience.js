@@ -12,7 +12,7 @@ const Experience = ({ data }) => (
     {data.map((job) => (
       <Job
         data={job}
-        key={job.company}
+        key={job.key}
       />
     ))}
   </div>
@@ -20,6 +20,7 @@ const Experience = ({ data }) => (
 
 Experience.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
+    key: PropTypes.string,
     company: PropTypes.string,
     position: PropTypes.string,
     link: PropTypes.string,
