@@ -1,6 +1,14 @@
 // TODO Add a couple lines about each publication
 const data = [
   {
+    authors: 'L. R. Tomás, G. G. Soares, A. A. S. Jorge, J. F. Mendes, V. L. S. Freitas, L. B. L. Santos',
+    title: 'Flood risk map from hydrological and mobility data: A case study in São Paulo (Brazil)',
+    journal: 'Transactions in GIS',
+    year: '2022',
+    doi: 'https://doi.org/10.1111/tgis.12962',
+    image: '/images/publications/2022_tingis.png',
+  },
+  {
     authors: 'V. L. S. Freitas, S. Yanchuk, H. L. C. Grande, E. E. N. Macau',
     title: 'The effects of time-delay and phase lags on symmetric circular formations of mobile agents',
     journal: 'The European Physical Journal - Special Topics',
