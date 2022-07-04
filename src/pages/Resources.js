@@ -25,7 +25,7 @@ const Resources = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="resources">Resources</Link></h2>
           <div className="link-container">
-            <h4>Soon...</h4>
+            <h4>{{"Soon..."}}</h4>
           </div>
         </div>
       </header>

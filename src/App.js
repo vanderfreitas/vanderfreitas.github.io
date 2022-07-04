@@ -12,9 +12,10 @@ const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Publications = lazy(() => import('./pages/Publications'));
+const Resources = lazy(() => import('./pages/Resources'));
 // const Teaching = lazy(() => import('./pages/Teaching'));
 // const Talks = lazy(() => import('./pages/Talks'));
-const Resources = lazy(() => import('./pages/Resources'));
+
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>

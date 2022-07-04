@@ -15,7 +15,7 @@ import Resume from '../pages/Resume';
 import Publications from '../pages/Publications';
 // import Teaching from '../pages/Teaching';
 // import Talks from '../pages/Talks';
-// import Resources from '../pages/Resources';
+import Resources from '../pages/Resources';
 
 const pages = [
   {
@@ -32,6 +32,11 @@ const pages = [
     route: '/publications',
     heading: 'Publications',
     component: Publications,
+  },
+  {
+    route: '/resources',
+    heading: 'Resources',
+    component: Resources,
   },
 ];
 
