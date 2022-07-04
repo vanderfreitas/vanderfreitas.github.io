@@ -25,7 +25,28 @@ const Resources = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="resources">Resources</Link></h2>
           <div className="link-container">
-            <h4>{"Soon..."}</h4>
+            <h3>{"Network Science"}</h3>
+            <h4>{"Books"}</h4>
+            <ul>
+              <li><a href="http://networksciencebook.com/">Network Science Book by Albert-László Barabasi</a></li>
+            </ul>
+            <h4>{"Basic Network science Packages"}</h4>
+            <ul>
+              <li><a href="https://igraph.org/">igraph</a></li>
+              <li><a href="https://networkx.org/">NetworkX</a></li>
+            </ul>
+            <h4>{"Multilayer networks"}</h4>
+            <ul>
+              <li><a href="https://github.com/manlius/muxViz">muxViz</a></li>
+              <li><a href="https://github.com/nkoub/multinetx">multiNetX</a></li>
+              <li><a href="http://mkivela.com/pymnet/">Pymnet</a></li>
+              <li><a href="https://github.com/SkBlaz/py3plex">Py3Plex</a></li>
+            </ul>
+            <h4>{"Simple initial code"}</h4>
+            <ul>
+              <li><a href="https://github.com/vanderfreitas/ComplexNetworksStarterPack">Useful starting code</a></li>
+              <li><a href="https://github.com/vanderfreitas/useful-network-science-code">Useful code</a></li>
+            </ul>
           </div>
         </div>
       </header>
