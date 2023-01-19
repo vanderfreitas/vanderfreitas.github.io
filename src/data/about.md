@@ -9,4 +9,4 @@ Associate Professor at the [Intelligent Systems Computing Laboratory](https://cs
 
 # Research
 
-Complex systems, Network science / Complex Networks, Multilayer networks, Data science, Synchronization, Phase-coupled oscillators
+Complex systems, Network science / Complex Networks, Multilayer networks, Data science, Machine Learning, Synchronization, Phase-coupled oscillators
