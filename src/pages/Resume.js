@@ -22,7 +22,7 @@ const sections = [
 const Resume = () => (
   <Main
     title="Resume"
-    description="Vander Freitas' Resume."
+    description="Vander Freitas' Resume"
   >
     <article className="post" id="resume">
       <header>
