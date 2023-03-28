@@ -1,6 +1,14 @@
 // TODO Add a couple lines about each publication
 const data = [
   {
+    authors: 'L. B. L. Santos, G. G. Soares, T. Garg, A. A. S. Jorge, L. R. Londe, R. T. Reani, R. B. Bacelar, C. E. S. Oliveira, V. L. S. Freitas, I. M. Sokolov',
+    title: 'Vulnerability analysis in complex networks under a flood risk reduction point of view',
+    journal: 'Frontiers in Physics',
+    year: '2023',
+    doi: 'https://doi.org/10.3389/fphy.2023.1064122',
+    image: '/images/publications/2023_frontiersinphysics.png',
+  },
+  {
     authors: 'L. R. Tomás, G. G. Soares, A. A. S. Jorge, J. F. Mendes, V. L. S. Freitas, L. B. L. Santos',
     title: 'Flood risk map from hydrological and mobility data: A case study in São Paulo (Brazil)',
     journal: 'Transactions in GIS',
