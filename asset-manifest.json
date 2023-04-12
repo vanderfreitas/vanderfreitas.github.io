@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.ed1941e2.css",
-    "main.js": "/static/js/main.964d712c.js",
+    "main.js": "/static/js/main.93a1d144.js",
     "static/js/460.36de089c.chunk.js": "/static/js/460.36de089c.chunk.js",
     "static/js/922.796e8a94.chunk.js": "/static/js/922.796e8a94.chunk.js",
-    "static/js/251.39314066.chunk.js": "/static/js/251.39314066.chunk.js",
+    "static/js/251.c1f910ad.chunk.js": "/static/js/251.c1f910ad.chunk.js",
     "static/js/622.a85347ab.chunk.js": "/static/js/622.a85347ab.chunk.js",
-    "static/js/848.7cbe56a9.chunk.js": "/static/js/848.7cbe56a9.chunk.js",
+    "static/js/848.0cfeb0ae.chunk.js": "/static/js/848.0cfeb0ae.chunk.js",
     "static/js/209.b2824d25.chunk.js": "/static/js/209.b2824d25.chunk.js",
     "static/js/21.93baa9c0.chunk.js": "/static/js/21.93baa9c0.chunk.js",
+    "static/media/CV_Vander_Freitas.pdf": "/static/media/CV_Vander_Freitas.5cc5a50a8c6bff57c39a.pdf",
     "index.html": "/index.html",
     "main.ed1941e2.css.map": "/static/css/main.ed1941e2.css.map",
-    "main.964d712c.js.map": "/static/js/main.964d712c.js.map",
+    "main.93a1d144.js.map": "/static/js/main.93a1d144.js.map",
     "460.36de089c.chunk.js.map": "/static/js/460.36de089c.chunk.js.map",
     "922.796e8a94.chunk.js.map": "/static/js/922.796e8a94.chunk.js.map",
-    "251.39314066.chunk.js.map": "/static/js/251.39314066.chunk.js.map",
+    "251.c1f910ad.chunk.js.map": "/static/js/251.c1f910ad.chunk.js.map",
     "622.a85347ab.chunk.js.map": "/static/js/622.a85347ab.chunk.js.map",
-    "848.7cbe56a9.chunk.js.map": "/static/js/848.7cbe56a9.chunk.js.map",
+    "848.0cfeb0ae.chunk.js.map": "/static/js/848.0cfeb0ae.chunk.js.map",
     "209.b2824d25.chunk.js.map": "/static/js/209.b2824d25.chunk.js.map",
     "21.93baa9c0.chunk.js.map": "/static/js/21.93baa9c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed1941e2.css",
-    "static/js/main.964d712c.js"
+    "static/js/main.93a1d144.js"
   ]
 }
