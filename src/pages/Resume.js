@@ -12,6 +12,7 @@ import Experience from '../components/Resume/Experience';
 // import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
+import Pdfcv from '../data/resume/CV_Vander_Freitas.pdf';
 // import { skills, categories } from '../data/resume/skills';
 
 const sections = [
@@ -29,9 +30,12 @@ const Resume = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
           <div className="link-container">
+          <h4><a href={ Pdfcv }>
+        Printable CV</a></h4><br></br>
             <h4><a href="http://lattes.cnpq.br/5339877279308939">
-        Brazilian Lattes CV</a></h4>
+        Link to the Brazilian Lattes CV</a></h4>
         </div>
+        <hr></hr>
         <div className="link-container">
           {sections.map((sec) => (
             <h4 key={sec}>

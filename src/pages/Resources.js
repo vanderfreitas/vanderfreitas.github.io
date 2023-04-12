@@ -25,6 +25,10 @@ const Resources = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="resources">Resources</Link></h2>
           <div className="link-container">
+            <h3>{"New student joining our group?"}</h3>
+            <ul>
+              <li>Please refer to the following <a href="https://github.com/ufopcsilab/projects">Guidelines</a></li>
+            </ul>
             <h3>{"Network Science"}</h3>
             <h4>{"Books"}</h4>
             <ul>
@@ -34,6 +38,7 @@ const Resources = () => (
             <ul>
               <li><a href="https://igraph.org/">igraph</a></li>
               <li><a href="https://networkx.org/">NetworkX</a></li>
+              <li><a href="https://graph-tool.skewed.de/">Graph-Tool</a></li>
             </ul>
             <h4>{"Multilayer networks"}</h4>
             <ul>
