@@ -1,6 +1,22 @@
 // TODO Add a couple lines about each publication
 const data = [
   {
+    authors: 'A. Jorge, V. L. S. Freitas, I. C. Costa, L. B. L. Santos',
+    title: 'Graph4GIS: Geographical graphs for GIS platforms based on weather radar dataset',
+    journal: 'Software Impacts',
+    year: '2023',
+    doi: 'https://doi.org/10.1016/j.simpa.2023.100530',
+    image: '/images/publications/2023_software_impacts.png',
+  },
+  {
+    authors: 'L. B. L. Santos, T. M. Anazawa, L. N. Ferreira, V. L. S. Freitas',
+    title: 'Editorial: Integrating physical and social sciences towards the sustainable development goals',
+    journal: 'Frontiers in Physics',
+    year: '2023',
+    doi: 'https://doi.org/10.3389/fphy.2023.1204201',
+    image: '/images/publications/2023_frontiersinphysics_editorial.jpg',
+  },
+  {
     authors: 'L. B. L. Santos, G. G. Soares, T. Garg, A. A. S. Jorge, L. R. Londe, R. T. Reani, R. B. Bacelar, C. E. S. Oliveira, V. L. S. Freitas, I. M. Sokolov',
     title: 'Vulnerability analysis in complex networks under a flood risk reduction point of view',
     journal: 'Frontiers in Physics',
