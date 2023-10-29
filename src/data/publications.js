@@ -1,6 +1,22 @@
 // TODO Add a couple lines about each publication
 const data = [
   {
+    authors: 'F. H. O. Duarte, G. J. P. Moreira, E. J. S. Luz, L. B. L. Santos, V. L. S. Freitas',
+    title: 'Time Series Forecasting of COVID-19 Cases in Brazil with GNN and Mobility Networks',
+    journal: 'Proceedings of the XII Brazilian Conference on Intelligent Systems (BRACIS)',
+    year: '2023',
+    doi: 'https://doi.org/10.1007/978-3-031-45392-2_24',
+    image: '/images/publications/2023_BRACIS.png',
+  },
+  {
+    authors: 'A. S. Oliveira, T. C. Cecote, P. H. L. Silva, J. C. Gertrudes, V. L. S. Freitas, E. J. S. Luz',
+    title: 'How Good Is ChatGPT For Detecting Hate Speech In Portuguese?',
+    journal: 'Proceedings of the XIV Symposium in Information and Human Language Technology (STIL)',
+    year: '2023',
+    doi: 'https://doi.org/10.5753/stil.2023.233943',
+    image: '/images/publications/2023_STIL.png',
+  },
+  {
     authors: 'A. Jorge, V. L. S. Freitas, I. C. Costa, L. B. L. Santos',
     title: 'Graph4GIS: Geographical graphs for GIS platforms based on weather radar dataset',
     journal: 'Software Impacts',

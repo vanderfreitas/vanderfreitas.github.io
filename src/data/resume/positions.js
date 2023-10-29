@@ -1,6 +1,6 @@
 const positions = [
   {
-    key: '6',
+    key: '7',
     company: 'Federal University of Ouro Preto (UFOP), Brazil',
     position: 'Assistant Professor',
     link: 'https://ufop.br',
@@ -12,12 +12,24 @@ const positions = [
     ],
   },
   {
+    key: '6',
+    company: 'Indiana University, USA',
+    position: 'Visiting Scholar',
+    link: 'https://www.iu.edu/',
+    daterange: 'Aug 2023 - Sep 2023',
+    points: [
+      'Working with Santo Fortunato, Filippo Radichi and Satyaki Sikdar',
+      'Science of Science, collaboration networks',
+    ],
+  },
+  {
     key: '5',
     company: 'Humboldt University Berlin and Technical University of Berlin, Germany',
     position: 'Ph.D. intern',
     link: 'https://www.hu-berlin.de/en',
     daterange: 'Mar 2018 - Feb 2019',
     points: [
+      'Working with Serhiy Yanchuk',
       'Dynamical systems: ODE and DDE',
     ],
   },
@@ -28,6 +40,7 @@ const positions = [
     link: 'http://inpe.br/',
     daterange: 'Mar 2016 - Oct 2019',
     points: [
+      'Working with Elbert E. N. Macau',
       'Dynamical systems with emphasis on Complex Networks and Active Particles',
     ],
   },
@@ -38,6 +51,7 @@ const positions = [
     link: 'http://inpe.br/',
     daterange: 'Mar 2014 - Feb 2016',
     points: [
+      'Working with Elbert E. N. Macau',
       'Agent-based systems and Dynamical systems with emphasis on Complex Networks and Active Particles',
     ],
   },
@@ -48,6 +62,7 @@ const positions = [
     link: 'https://www.ualberta.ca/index.html',
     daterange: 'Jun 2013 - Sept 2013',
     points: [
+      'Working with Irene Cheng and Anup Bazu',
       'Developed a project on Human-Machine Interaction using Kinect and Leap motion sensors',
     ],
   },
@@ -58,6 +73,7 @@ const positions = [
     link: 'https://fct.unesp.br/',
     daterange: 'Jan 2011 - Feb 2013',
     points: [
+      'Working with Antonio M. G. Tommaselli',
       'Worked with Digital Image Processing, and the development of Photogrametric systems',
     ],
   },

@@ -12,7 +12,7 @@ import { TwitterTweetEmbed } from 'react-twitter-embed';
 
 const TwitterIndex = () => (
   <TwitterTweetEmbed
-    tweetId="1640726094474014721"
+    tweetId="1718720584010301869"
   />
 );
 
