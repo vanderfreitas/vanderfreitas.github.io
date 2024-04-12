@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.ed1941e2.css",
-    "main.js": "/static/js/main.f317af31.js",
+    "main.js": "/static/js/main.44516594.js",
     "static/js/460.bc9058b6.chunk.js": "/static/js/460.bc9058b6.chunk.js",
     "static/js/922.796e8a94.chunk.js": "/static/js/922.796e8a94.chunk.js",
-    "static/js/251.8bfebac1.chunk.js": "/static/js/251.8bfebac1.chunk.js",
-    "static/js/622.d7bc647c.chunk.js": "/static/js/622.d7bc647c.chunk.js",
+    "static/js/251.bcc874cb.chunk.js": "/static/js/251.bcc874cb.chunk.js",
+    "static/js/622.1b7b4ea7.chunk.js": "/static/js/622.1b7b4ea7.chunk.js",
     "static/js/848.0cfeb0ae.chunk.js": "/static/js/848.0cfeb0ae.chunk.js",
     "static/js/209.b2824d25.chunk.js": "/static/js/209.b2824d25.chunk.js",
     "static/js/21.93baa9c0.chunk.js": "/static/js/21.93baa9c0.chunk.js",
-    "static/media/CV_Vander_Freitas.pdf": "/static/media/CV_Vander_Freitas.5cc5a50a8c6bff57c39a.pdf",
+    "static/media/CV_Vander_Freitas.pdf": "/static/media/CV_Vander_Freitas.3e617ec1f9094977860a.pdf",
     "index.html": "/index.html",
     "main.ed1941e2.css.map": "/static/css/main.ed1941e2.css.map",
-    "main.f317af31.js.map": "/static/js/main.f317af31.js.map",
+    "main.44516594.js.map": "/static/js/main.44516594.js.map",
     "460.bc9058b6.chunk.js.map": "/static/js/460.bc9058b6.chunk.js.map",
     "922.796e8a94.chunk.js.map": "/static/js/922.796e8a94.chunk.js.map",
-    "251.8bfebac1.chunk.js.map": "/static/js/251.8bfebac1.chunk.js.map",
-    "622.d7bc647c.chunk.js.map": "/static/js/622.d7bc647c.chunk.js.map",
+    "251.bcc874cb.chunk.js.map": "/static/js/251.bcc874cb.chunk.js.map",
+    "622.1b7b4ea7.chunk.js.map": "/static/js/622.1b7b4ea7.chunk.js.map",
     "848.0cfeb0ae.chunk.js.map": "/static/js/848.0cfeb0ae.chunk.js.map",
     "209.b2824d25.chunk.js.map": "/static/js/209.b2824d25.chunk.js.map",
     "21.93baa9c0.chunk.js.map": "/static/js/21.93baa9c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed1941e2.css",
-    "static/js/main.f317af31.js"
+    "static/js/main.44516594.js"
   ]
 }
