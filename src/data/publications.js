@@ -1,6 +1,22 @@
 // TODO Add a couple lines about each publication
 const data = [
   {
+    authors: 'A. S. Oliveira, T. C. Cecote, J. P. R. Alvarenga, V. L. S. Freitas, E. J. S. Luz',
+    title: 'Toxic Speech Detection in Portuguese: A Comparative Study of Large Language Models',
+    journal: 'Proceedings of the 16th International Conference on Computational Processing of Portuguese',
+    year: '2024',
+    doi: 'https://aclanthology.org/2024.propor-1.11.pdf',
+    image: '/images/publications/2024_propor.png',
+  },
+  {
+    authors: 'F. H. O. Duarte, G. J. P. Moreira, E. J. S. Luz, L. B. L. Santos, V. L. S. Freitas',
+    title: 'Correlations between epidemiological time series forecasting and influence regions of Brazilian cities',
+    journal: 'Proceedings of the XXIV Brazilian Symposium on Geoinformatics (GEOINFO)',
+    year: '2023',
+    doi: 'http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2023/12.18.16.49/doc/thisInformationItemHomePage.html',
+    image: '/images/publications/2023_geoinfo_duarte.png',
+  },
+  {
     authors: 'F. H. O. Duarte, G. J. P. Moreira, E. J. S. Luz, L. B. L. Santos, V. L. S. Freitas',
     title: 'Time Series Forecasting of COVID-19 Cases in Brazil with GNN and Mobility Networks',
     journal: 'Proceedings of the XII Brazilian Conference on Intelligent Systems (BRACIS)',
