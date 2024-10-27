@@ -1,6 +1,14 @@
 // TODO Add a couple lines about each publication
 const data = [
   {
+    authors: 'P. V. R. Silva, A. A. S. Jorge, L. B. L. Santos, V. L. S. Freitas',
+    title: 'ShpStreetGraph: From spatial relations of streets to graph representations',
+    journal: 'Software Impacts',
+    year: '2024',
+    doi: 'https://doi.org/10.1016/j.simpa.2024.100711',
+    image: '/images/publications/2024_software_impacts.jpg',
+  },
+  {
     authors: 'A. S. Oliveira, T. C. Cecote, J. P. R. Alvarenga, V. L. S. Freitas, E. J. S. Luz',
     title: 'Toxic Speech Detection in Portuguese: A Comparative Study of Large Language Models',
     journal: 'Proceedings of the 16th International Conference on Computational Processing of Portuguese',

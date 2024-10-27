@@ -9,8 +9,4 @@ Associate Professor at the [Intelligent Systems Computing Laboratory](https://cs
 
 # Research
 
-Complex systems, Network science / Complex Networks, Multilayer networks, Data science, Machine Learning, Synchronization, Phase-coupled oscillators
-
-# Projects
-
-List of projects you could get involved: [Projects](https://github.com/ufopcsilab/projects)
+Complex systems, Network science, Data science, Machine Learning
