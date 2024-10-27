@@ -18,9 +18,9 @@ const Index = () => (
   >
     <article className="post" id="index">
       <h2 data-testid="heading"><Link to="/">Affiliation</Link></h2>
-      <ReactMarkdown
-        source={markdown}
-      />
+      <ReactMarkdown>
+      {markdown}
+      </ReactMarkdown>
     </article>
 
     <TwitterIndex />
