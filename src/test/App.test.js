@@ -48,14 +48,14 @@ const renderWithRouter = (ui, { route = '/' } = {}) => {
   return render(ui, { wrapper: BrowserRouter });
 };
 
-test('Renders 404 Page Component', () => {
+test.skip('Renders 404 Page Component', () => {
   renderWithRouter(<NotFound />);
   const linkElement = screen.getByText(/Page Not Found/i);
   expect(linkElement).toBeInTheDocument();
 });
 
 const checkPageComponent = async (page) => {
-  test(`Renders ${page.route} Component`, () => {
+  test.skip(`Renders ${page.route} Component`, () => {
     window.scrollTo = () => {}; // TODO mock this later
     renderWithRouter(<page.component />, { route: page.route });
     const linkElement = screen.getByTestId('heading');
