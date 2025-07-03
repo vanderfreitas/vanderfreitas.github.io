@@ -4,7 +4,6 @@ import ReactMarkdown from 'react-markdown';
 import raw from 'raw.macro';
 
 import Main from '../layouts/Main';
-import TwitterIndex from '../components/TwitterIndex';
 
 // uses babel to load contents of file
 const markdown = raw('../data/about.md');
@@ -22,8 +21,6 @@ const Index = () => (
       {markdown}
       </ReactMarkdown>
     </article>
-
-    <TwitterIndex />
   </Main>
 );
 
