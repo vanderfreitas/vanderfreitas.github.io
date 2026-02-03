@@ -1,6 +1,38 @@
 // TODO Add a couple lines about each publication
 const data = [
   {
+    authors: 'C. S. N. Sepetauskas; V. L. S. Freitas; H. S. P. Cardoso; L. B. L. Santos',
+    title: 'Unveiling connections: Mobility and dengue case networks on an intraurban scale',
+    journal: 'Physica D: Nonlinear Phenomena',
+    year: '2025',
+    doi: 'http://dx.doi.org/10.1016/j.physd.2025.134812',
+    image: '/images/publications/2025_physica_d.jpeg',
+  },
+  {
+    authors: 'A. F. Guilarducci; I. L. L. Vasconcelos; E. J. S. Luz; V. L. S. Freitas',
+    title: 'Institutional Hierarchy and Asymmetry in Brazilian Computer Science Faculty Hiring Network',
+    journal: 'Proceedings of the XIV Brazilian Workshop on Social Network Analysis and Mining (BrasNAM)',
+    year: '2025',
+    doi: 'http://dx.doi.org/10.5753/brasnam.2025.8934',
+    image: '/images/publications/2025_brasnam_hierarchy.jpeg',
+  },
+  {
+    authors: 'C. E. G. R. Souza; E. J. S. Luz; V. L. S. Freitas',
+    title: 'NFL Play Classification Using GNN and Player Tracking Data',
+    journal: 'XXII Encontro Nacional de Inteligência Artificial e Computacional',
+    year: '2025',
+    doi: 'https://sol.sbc.org.br/index.php/eniac/article/view/38770',
+    image: '/images/publications/2025_eniac_nfl.jpeg',
+  },
+  {
+    authors: 'G. F. Costa; L. B. L. Santos; V. L. S. Freitas',
+    title: 'Eulerian SIR model for Asymmetric Temporal Commuting Networks: Case Study of Chinese Baidu Mobility Data',
+    journal: 'Proceedings of the XXV Brazilian Symposium on Geoinformatics (GEOINFO)',
+    year: '2025',
+    doi: 'https://proceedings.sbmac.org.br/sbmac/article/view/4856',
+    image: '/images/publications/2025_geoinfo_sir.jpeg',
+  },
+  {
     authors: 'P. V. R. Silva, A. A. S. Jorge, L. B. L. Santos, V. L. S. Freitas',
     title: 'ShpStreetGraph: From spatial relations of streets to graph representations',
     journal: 'Software Impacts',
@@ -87,7 +119,7 @@ const data = [
     year: '2022',
     doi: 'https://doi.org/10.5753/sbcas.2022.222434',
     image: '/images/publications/2022_SBCAS_1.png',
-  },  
+  },
   {
     authors: 'R. F. Oliveira, V. L. S. Freitas, G. J. P. Moreira, E. J. S. Luz',
     title: 'Explorando Redes Neurais de Grafos para Classificação de Arritmias',

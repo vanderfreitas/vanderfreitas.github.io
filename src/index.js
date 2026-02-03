@@ -1,5 +1,5 @@
 import React from 'react';
-import { hydrateRoot, createRoot } from 'react-dom/client';
+import { createRoot } from 'react-dom/client';
 import App from './App';
 
 // See https://reactjs.org/docs/strict-mode.html
@@ -10,12 +10,5 @@ const StrictApp = () => (
 );
 
 const rootElement = document.getElementById('root');
-
-let root = null;
-// hydrate is required by react-snap.
-if (rootElement.hasChildNodes()) {
-  root = hydrateRoot(rootElement,<StrictApp />);
-} else {
-  root = createRoot(rootElement,<StrictApp />);
-}
-root.render(<App />);
+const root = createRoot(rootElement);
+root.render(<StrictApp />);

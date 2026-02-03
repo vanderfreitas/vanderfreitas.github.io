@@ -9,4 +9,4 @@ Associate Professor at the [Intelligent Systems Computing Laboratory](https://cs
 
 # Research
 
-Complex systems, Network science, Data science, Machine Learning
+Complex systems, Network science, Machine Learning, AI with graphs
