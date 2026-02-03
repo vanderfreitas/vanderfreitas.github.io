@@ -18,7 +18,7 @@ const SideBar = () => (
     </section>
 
     <section className="blurb">
-      <h2>Main interests:</h2> Complex systems, Network science, Data science, Machine Learning
+      <h2>Main interests:</h2> Complex systems, Network science, Machine Learning, AI with graphs
     </section>
 
     <section id="footer">
