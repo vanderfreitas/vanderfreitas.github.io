@@ -1,12 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
-import raw from 'raw.macro';
+import content from '../data/about.md?raw';
 
 import Main from '../layouts/Main';
 
 // uses babel to load contents of file
-const markdown = raw('../data/about.md');
+const markdown = content;
 
 // Make all hrefs react router links
 // const LinkRenderer = ({ ...children }) => <Link {...children} />;
@@ -18,7 +18,7 @@ const Index = () => (
     <article className="post" id="index">
       <h2 data-testid="heading"><Link to="/">Affiliation</Link></h2>
       <ReactMarkdown>
-      {markdown}
+        {markdown}
       </ReactMarkdown>
     </article>
   </Main>

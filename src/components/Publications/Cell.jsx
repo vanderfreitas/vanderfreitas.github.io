@@ -10,7 +10,7 @@ const Cell = ({ data }) => (
       </header>
       <section className="post-data">
         <a href={data.doi} className="image">
-          <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
+          <img src={`${import.meta.env.BASE_URL === '/' ? '' : import.meta.env.BASE_URL}${data.image}`} alt={data.title} />
         </a>
         <div className="description">
           <p>{data.authors}</p>

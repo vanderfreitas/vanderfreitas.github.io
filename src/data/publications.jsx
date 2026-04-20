@@ -1,6 +1,14 @@
 // TODO Add a couple lines about each publication
 const data = [
   {
+    authors: 'F. H. O. Duarte, G. J. P. Moreira, E. J. S. Luz, L. B. L. Santos, V. L. S. Freitas',
+    title: 'Leveraging graph neural networks and mobility data for COVID-19 forecasting',
+    journal: 'Applied Soft Computing',
+    year: '2026',
+    doi: 'https://doi.org/10.1016/j.asoc.2026.115242',
+    image: '/images/publications/2026_ASOC.png',
+  },
+  {
     authors: 'C. S. N. Sepetauskas; V. L. S. Freitas; H. S. P. Cardoso; L. B. L. Santos',
     title: 'Unveiling connections: Mobility and dengue case networks on an intraurban scale',
     journal: 'Physica D: Nonlinear Phenomena',
